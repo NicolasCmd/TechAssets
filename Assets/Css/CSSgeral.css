@@ -16,3 +16,11 @@ header{
     font-size: 2em;
 }
 
+header img {
+    width: 80px;
+}
+
+header img {
+    height: 50px;
+    width: 50px;
+}
